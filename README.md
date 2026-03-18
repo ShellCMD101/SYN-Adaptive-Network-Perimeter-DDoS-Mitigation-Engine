@@ -15,15 +15,6 @@
 
 </div>
 
----
-
-## 🏆 Achievement: Techon 2nd Position Award 
-
-<img src="https://github.com/Q3hr/SYN-Flood-Mitigation/raw/main/Techon_2nd_Position_Award.jpg" width="500"/>
-
-
----
-
 ## 🎯 Project Overview
 
 This project represents a **cutting-edge cybersecurity defense system** that simulates realistic **SYN Flood (DoS/DDoS) attacks** and demonstrates **advanced mitigation techniques** through seamless Windows Firewall integration. The system provides comprehensive **real-time monitoring**, **automated threat response**, and **detailed forensic analysis** capabilities for network security education and research.
